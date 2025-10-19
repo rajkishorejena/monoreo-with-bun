@@ -2,6 +2,11 @@
 
 A monorepo setup using Bun as the JavaScript runtime and package manager, with Turborepo for monorepo management.
 
+## Use full link to know more Monorepo
+
+- (https://monorepo.tools/)
+- (https://turborepo.com/)
+
 ## Project Structure
 
 ```
